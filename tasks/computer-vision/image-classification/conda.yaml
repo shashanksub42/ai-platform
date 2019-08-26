@@ -1,7 +1,0 @@
-dependencies: python=3.6
-name: my_env
-pip: !!set
-  matplotlib==3.0.2: null
-  numpy==1.15.4: null
-  torch==1.1.0: null
-  torchvision==0.3.0: null
