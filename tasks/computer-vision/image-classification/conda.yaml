@@ -1,0 +1,7 @@
+dependencies: python=3.6
+name: my_env
+pip:
+  matplotlib: 3.0.2
+  numpy: 1.15.4
+  torch: 1.1.0
+  torchvision: 0.3.0
